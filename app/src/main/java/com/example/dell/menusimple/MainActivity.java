@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
             txtMsg.setText("Download...");
 // perform DOWNLOAD operations...
             return true;
-        }
+      
         else if (id == R.id.action_about) {
             txtMsg.setText("About...");
 // perform ABOUT operations...
